@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ScOAdYXEFdBvHk4pQBfl9BH47kFgBwQ/lweGEw4Q782qnE9TYflsgoQ6pBKGVoj5HYu4S4ks+rFjtpNrEuj3iw==",
+  "dgSpecHash": "wFXg0LOOo3MBages2V015JPycPAosiuxIDJCU0tmDWo9NPq0ezS8GjQz5lhp4ilIHh4zgy1bzFNY4BUNav0L+A==",
   "success": true,
-  "projectFilePath": "D:\\Desktop\\gft-start-uni\\dotnet-course\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
+  "projectFilePath": "D:\\Desktop\\gft-start-uni\\gft-csharp-examples\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\gft-start-uni\\dotnet-course\\01-EstruturaDoPrograma\\01-EstruturaDoPrograma.csproj": {}
+    "D:\\Desktop\\gft-start-uni\\gft-csharp-examples\\01-EstruturaDoPrograma\\01-EstruturaDoPrograma.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\gft-start-uni\\dotnet-course\\01-EstruturaDoPrograma\\01-EstruturaDoPrograma.csproj": {
+    "D:\\Desktop\\gft-start-uni\\gft-csharp-examples\\01-EstruturaDoPrograma\\01-EstruturaDoPrograma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\gft-start-uni\\dotnet-course\\01-EstruturaDoPrograma\\01-EstruturaDoPrograma.csproj",
+        "projectUniqueName": "D:\\Desktop\\gft-start-uni\\gft-csharp-examples\\01-EstruturaDoPrograma\\01-EstruturaDoPrograma.csproj",
         "projectName": "01-EstruturaDoPrograma",
-        "projectPath": "D:\\Desktop\\gft-start-uni\\dotnet-course\\01-EstruturaDoPrograma\\01-EstruturaDoPrograma.csproj",
+        "projectPath": "D:\\Desktop\\gft-start-uni\\gft-csharp-examples\\01-EstruturaDoPrograma\\01-EstruturaDoPrograma.csproj",
         "packagesPath": "C:\\Users\\Smoow\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\gft-start-uni\\dotnet-course\\01-EstruturaDoPrograma\\obj\\",
+        "outputPath": "D:\\Desktop\\gft-start-uni\\gft-csharp-examples\\01-EstruturaDoPrograma\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Smoow\\AppData\\Roaming\\NuGet\\NuGet.Config"
