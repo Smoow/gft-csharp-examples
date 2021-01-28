@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Smoow\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Smoow\\.nuget\\packages"
+    ]
+  }
+}
