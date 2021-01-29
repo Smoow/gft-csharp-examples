@@ -1,0 +1,4 @@
+D:\Desktop\gft-start-uni\gft-csharp-examples\02-Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.csprojAssemblyReference.cache
+D:\Desktop\gft-start-uni\gft-csharp-examples\02-Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.AssemblyInfoInputs.cache
+D:\Desktop\gft-start-uni\gft-csharp-examples\02-Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.AssemblyInfo.cs
+D:\Desktop\gft-start-uni\gft-csharp-examples\02-Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.csproj.CoreCompileInputs.cache
