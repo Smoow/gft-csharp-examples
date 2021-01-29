@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\gft-start-uni\\gft-csharp-examples\\Revisao\\Revisao.csproj": {}
+    "/home/smoow/Desktop/gft-csharp-examples/Revisao/Revisao.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\gft-start-uni\\gft-csharp-examples\\Revisao\\Revisao.csproj": {
+    "/home/smoow/Desktop/gft-csharp-examples/Revisao/Revisao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\gft-start-uni\\gft-csharp-examples\\Revisao\\Revisao.csproj",
+        "projectUniqueName": "/home/smoow/Desktop/gft-csharp-examples/Revisao/Revisao.csproj",
         "projectName": "Revisao",
-        "projectPath": "D:\\Desktop\\gft-start-uni\\gft-csharp-examples\\Revisao\\Revisao.csproj",
-        "packagesPath": "C:\\Users\\Smoow\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\gft-start-uni\\gft-csharp-examples\\Revisao\\obj\\",
+        "projectPath": "/home/smoow/Desktop/gft-csharp-examples/Revisao/Revisao.csproj",
+        "packagesPath": "/home/smoow/.nuget/packages/",
+        "outputPath": "/home/smoow/Desktop/gft-csharp-examples/Revisao/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Smoow\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/smoow/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }
