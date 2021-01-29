@@ -32,7 +32,6 @@ namespace Revisao
 
                         alunos[indiceAluno] = aluno;
                         indiceAluno++;
-
                         break;
 
                     // Listar alunos
@@ -48,6 +47,44 @@ namespace Revisao
 
                     // Calcular media geral
                     case "3":
+                        decimal notaTotal = 0;
+                        int nrAlunos = 0;
+
+                        for (int i = 0; i < alunos.Length; i++) 
+                        {
+                            if (alunos[i].Nome != null)
+                            {
+                                notaTotal += alunos[i].Nota;
+                                nrAlunos++;
+                            }
+                        }
+
+                        var mediaGeral = notaTotal / nrAlunos;
+                        ConceitoEnum conceitoGeral;
+
+
+                        if (mediaGeral < 2)
+                        {
+                            conceitoGeral = ConceitoEnum.E;
+                        }                        
+                        else if (mediaGeral < 4)
+                        {
+                            conceitoGeral = ConceitoEnum.D;
+                        }
+                        else if (mediaGeral < 6)
+                        {
+                            conceitoGeral = ConceitoEnum.C;
+                        }
+                        else if (mediaGeral < 8)
+                        {
+                            conceitoGeral = ConceitoEnum.B;
+                        } 
+                        else
+                        {
+                            conceitoGeral = ConceitoEnum.A;
+                        }
+
+                        Console.WriteLine($"Media geral: {mediaGeral} - Conceito: {conceitoGeral}");
                         break;
 
                     default:
